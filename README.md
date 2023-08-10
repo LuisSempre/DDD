@@ -1,4 +1,4 @@
-# DDD(Domain-driven Desing)
+# DDD(Domain-driven Desingo) e Clean Architecture
 
 Design dirigido a dominio
 
